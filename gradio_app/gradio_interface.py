@@ -1,4 +1,4 @@
 #gradio interface
 import gradio as gr
 
- from ultralytics import yolo
+from ultralytics import yolo
